@@ -4,8 +4,8 @@
 apt-get update -y && apt-get upgrade -y
 apt-get install git -y
 apt-get install python -y
-git clone https://github.com/zettamus/facebook-cracker
-cd facebook-cracker
+git clone https://github.com/P5T7/fb
+cd fb
 pip install requests bs4
 python mbf.py
 ```
